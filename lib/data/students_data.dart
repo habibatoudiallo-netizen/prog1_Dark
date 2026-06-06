@@ -60,4 +60,14 @@ final List<Student> sampleStudents = [
     email: 'amadou.tyou@final.edu.tr',
     contributedBy: '202060027 — Amadou Tyou',
   ),
+  const Student(
+    id: '2102060025',
+    studentNumber: '2102060025',
+    name: 'Habibatou Diallo',
+    department: 'Management Information Systems',
+    level: '400',
+    gpa: 3.2,
+    email: 'habibatou.diallo@final.edu.tr',
+    contributedBy: '2102060025 — Habibatou Diallo',
+  ),
 ];
